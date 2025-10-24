@@ -1,0 +1,1 @@
+# WinGet.Google.Chrome.Beta.EXE
